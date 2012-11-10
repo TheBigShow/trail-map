@@ -9,3 +9,4 @@ NEWS.md
 Future
 ------
 * Replace markdown files with JSON, for use on `https://learn.thoughtbot.com`
+* Add tests to verify JSON is valid
