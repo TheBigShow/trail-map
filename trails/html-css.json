@@ -1,6 +1,6 @@
 {
   "name": "HTML & CSS",
-  "description": "HTML is the markup language for displaying web pages and other information that can be displayed in a web browser. CSS is a language used for describing the the look and formatting of HTML. Together the form the foundation of the web."
+  "description": "HTML is the markup language for displaying web pages and other information that can be displayed in a web browser. CSS is a language used for describing the look and formatting of HTML. Together they form the foundation of the web."
   "steps": [
     {
       "name": "First read one or more of these introduction books",
@@ -72,7 +72,7 @@
         "Can apply a box shadow, rounded corners, and text shadow",
         "Can use RGBa, HSL, HSLa, and opacity",
         "Know trasitsions and animations and where to apply them",
-        "Know what vendor prefixes are why they are used and when to use them",
+        "Know what vendor prefixes are, why they are used"
         "Understand how box-sizing changes the box model",
         "Know the new sudo-selectors and know their uses"
       ]
